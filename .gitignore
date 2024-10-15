@@ -1,0 +1,8 @@
+# Ignore the .settings folder
+.settings/
+
+# Ignore the Debug folder
+Debug/
+
+# Ignore the specific PWM-Generator Debug.launch file
+PWM-Generator Debug.launch
